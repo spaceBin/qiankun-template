@@ -1,6 +1,6 @@
-### 本地启动qiankun-template
+## 本地运行qiankun-template
 
-## 启动portal项目
+### 启动portal项目
 
 1. `cd portal`；
 
@@ -10,7 +10,7 @@
 
 * 访问`http://localhost:7013`即可访问portal项目【这时候还不能通过菜单访问子应用】
 
-## 启动子应用（app-first、app-second），以app-first为例
+### 启动子应用（app-first、app-second），以app-first为例
 
 1. `cd app-first`；
 
